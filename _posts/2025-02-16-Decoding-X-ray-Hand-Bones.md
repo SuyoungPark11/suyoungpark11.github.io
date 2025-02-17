@@ -27,7 +27,7 @@ A visualization tool is introduced using Streamlit, an open-source framework for
 - Toggle the visibility of labels by class   
 - Upload experiment result (in csv format)
 
-Considering all the requirements above, I made web demo for data(images & labels) visualization as below. You can find the code [here](https://github.com/SuyoungPark11/level2-cv-semanticsegmentation-cv-20-lv3/blob/main/eda/run_streamlit.py).
+Considering all the requirements above, I made web demo for data(images & labels) visualization as below. You can find the code [here](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-20-lv3/blob/main/eda/run_streamlit.py).
 
 ![streamlit](/assets/img/inpost/250216/1.png)
 _Visualization Web Demo_
