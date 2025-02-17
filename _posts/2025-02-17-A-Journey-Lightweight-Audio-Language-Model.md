@@ -3,9 +3,7 @@ title: A Journey to Lightweight Audio Language Model | Multi-Modal LLM
 date: 2025-02-17 13:00:00 +/-0000
 categories: [Project]
 tags: [boostcamp]
-images:
-  path: /assets/img/inpost/250217/2.png
-  alt: Semantic Segmentation
+images: /assets/img/inpost/250217/2.png
 ---
 
 ## 1. Introduction 
@@ -74,7 +72,7 @@ Pruning is to identify optimal neuron connectivity without sacrificing performan
 - Pruning based on L2-norm (ppl-n10)
 - Pruning based on Taylor series (taylor)
 
-There is an improvement of memory, but a diminution of performance. Looking at the result of pruned modles with naked eyes, the models only generate very short sentences or repetitive expressions due to the lack of training. However, we determine not to proceed further training in order to conduct other experiments under our device environment where GPU is limited. In addition, the reason why the increase in Gemma's inference time could not be identified accurately, but it seems to have overlapped with several processes due to the experimenter's mistake. 
+There is an improvement of memory, but a diminution of performance. Looking at the result of pruned modles with naked eyes, the models only generate very short sentences or repetitive expressions due to the lack of training. However, we determine not to proceed further training in order to conduct other experiments under our device environment where GPU is limited. In addition, the reason why the increase in Gemma's inference time could not be identified accurately, but it seems to have overlapped with several processes. 
 
 
 |     LLM             | Memory(GB) | Inference Time (s) |
