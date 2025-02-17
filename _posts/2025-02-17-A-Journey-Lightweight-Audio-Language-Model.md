@@ -63,7 +63,7 @@ The result shows that high performance models are different in terms of task per
 
 In addition, we hypothesize that the model performance can be improved by the change of encoder. Replacing Whisper Encoder with the new version, we confirm this replacement by checking a significant performance improvement.  
 
-### 3.2. Lightweight Improvement
+### 3.2. Efficiency Improvement
 #### Pruning 
 
 Pruning is to identify optimal neuron connectivity without sacrificing performance. We conduct two types of experiments that one is to apply pruned model from huggingface and the other is to apply pruning technique to a model. There are three types of experiments : 
@@ -217,7 +217,7 @@ def main():
 
 ```
 
-Via the code, the model can be exported to onnx format as below. 
+Via the code, the model can be exported to onnx format as below. The image is captured on [Netron](https://netron.app/). 
 
 ![onnx](/assets/img/inpost/250217/3.png)
 
