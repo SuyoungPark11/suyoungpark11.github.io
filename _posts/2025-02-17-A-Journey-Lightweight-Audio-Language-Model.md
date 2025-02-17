@@ -4,7 +4,7 @@ date: 2025-02-17 13:00:00 +/-0000
 categories: [Project]
 tags: [boostcamp]
 images:
-  path: /assets/img/inpost/250216/1.png
+  path: /assets/img/inpost/250217/2.png
   alt: Semantic Segmentation
 ---
 
