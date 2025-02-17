@@ -157,7 +157,7 @@ The below table shows improved performance and efficiency.
 |   Our Model (Ours)  | 0.0585 (-7.7%)|  0.3044 (+50.2%)| 5.9618 (-35.0%)|   0.38010 (+15.4%) |
 |   Our Model (Eval)  | 0.0612 (-3.5%)|  0.3218 (+58.8%)| 5.9661 (-35.0%)|   0.23970 (-32.8%) |
 
-- Ours environment : Intel 
+- Ours environment : Intel Xeon Gold 6154, NVIDIA V100 (NAVER CLOUD PLATFROM)
 - Eval environment : Intel Xeon Platinum 8468, NVIDIA H100  
 
 ### 4.2. Further Application 
