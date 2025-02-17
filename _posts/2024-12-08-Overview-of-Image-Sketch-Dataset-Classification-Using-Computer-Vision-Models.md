@@ -95,7 +95,7 @@ It was confirmed that the accuracy was improved according to the preprocessing u
 In this project, various models were tested by accessing a remote server via Secure Shell Protocol (SSH), rather than using a local computer environment. Through these experiments, it was confirmed that more state-of-the-art model demonstrated superior performance. Additionally, data augmentation has been shown to provide further performance improvements, emphasizing the need for this process in model training. In particular, augmentations that took into account the characteristics of sketch data proved to be more effective, highlighting the importance of tailored augmentation strategies for specific data types.
 ​
 ### 5.2. Copyright and Code
-This project was a part of a project conducted by Naver AI Tech Boostcamp and was carried out with 6 team members. The dataset used in the project was used under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Furthermore, detailed code for the project is available in my github [link](https://github.com/SuyoungPark11/level1-imageclassification-cv-20). 
+This project is a part of a project held at [boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html), managed by [NAVER Connect Foundation](https://connect.or.kr/). The dataset used in the project is being under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). It is available to check source code in GitHub Repository [link](https://github.com/boostcampaitech7/level1-imageclassification-cv-20). 
 ​
 ## 6. References
 

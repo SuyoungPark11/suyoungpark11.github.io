@@ -258,7 +258,7 @@ _CVAT result_
 In this project, we tried various data-centric approaches to increase quality and quantity of our dataset. Using the mentioned methods to make the dataset suitable for training, we were able to achieve better F1-score(0.9038), which is about 10.8% higher than the benchmark(0.8153). 
 ​
 ### 5.2. Copyright and Code
-This project was a part of a project conducted by Naver AI Tech Boostcamp and was carried out with 6 team members. The dataset used in the project was used under [CC-BY-NC-ND License](https://creativecommons.org/licenses/by/2.0/kr/). Furthermore, detailed code for the project is available in my github [link](https://github.com/SuyoungPark11/level2-cv-datacentric-cv-20). 
+This project is a part of a project held at [boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html), managed by [NAVER Connect Foundation](https://connect.or.kr/). The dataset used in the project is being under [CC-BY-NC-ND License](https://creativecommons.org/licenses/by/2.0/kr/). It is available to check source code in GitHub Repository [link](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-20). 
 ​
 <br>
 

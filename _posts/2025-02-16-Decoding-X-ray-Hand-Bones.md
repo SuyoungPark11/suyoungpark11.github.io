@@ -237,6 +237,6 @@ With the results, we could derive the best performance compared to the baseline.
 
 ### 5.2. Copyright and Code
 
-This project was a part of a project in boostcamp AI Tech, managed by NAVER Connect Foundation and was carried out with 6 team members. The dataset is only used for boostcamp education and not allowed to take outside, so this post includes very limited image. Furthermore, it is available to find more detailed code for this project in [my GitHub](https://github.com/SuyoungPark11/level2-cv-datacentric-cv-20). 
+This project is a part of a project held at [boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html), managed by [NAVER Connect Foundation](https://connect.or.kr/). The dataset is only used for boostcamp education and not allowed to take outside, so this post includes very limited image. Furthermore, it is available to find more detailed code for this project in [my GitHub](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-20-lv3). 
 
 

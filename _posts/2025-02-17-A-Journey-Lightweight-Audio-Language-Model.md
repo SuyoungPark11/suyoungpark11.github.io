@@ -225,10 +225,7 @@ _ONNX transformation_
 
 ### 4.3. Copyright and Code
 
-This project is a corporate hackathon project with [Nota AI](https://www.nota.ai/) held at [boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html), managed by [NAVER Connect Foundation](https://connect.or.kr/), and it was carried out with 5 team members. 
-
-
-The dataset is only used for boostcamp education and not allowed to take outside, so this post includes very limited image. Furthermore, it is available to find more detailed code for this project in [my GitHub](https://github.com/SuyoungPark11/level2-cv-datacentric-cv-20). 
+This project is a corporate hackathon project with [Nota AI](https://www.nota.ai/) held at [boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html), managed by [NAVER Connect Foundation](https://connect.or.kr/), and it was carried out with 5 team members. It is available to check source code in GitHub Repository [link](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-20-lv3). 
 
 
 ## 5. References
